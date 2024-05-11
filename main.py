@@ -8,6 +8,7 @@ def print_hi(message, name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi this is, {message}')  # Press Ctrl+F8 to toggle the breakpoint.
     print(f"Welcome to Pycharm, {name}")
+    print("This line is from main..")
 
 
 # Press the green button in the gutter to run the script.
